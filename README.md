@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon SQL bug related to the handling of NULL values in WHERE clauses. The `bug.sql` file contains a SQL query that produces unexpected results due to this issue. The `bugSolution.sql` file provides a corrected version of the query, along with an explanation of the problem and its solution.
